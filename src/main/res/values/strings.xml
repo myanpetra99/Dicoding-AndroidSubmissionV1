@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Receipe Book</string>
+    <string-array name="food_name">
+        <item>Classic Margherita Pizza</item>
+        <item>Vegetable Stir-Fry</item>
+        <item>Classic Caesar Salad</item>
+        <item>Spaghetti Carbonara</item>
+        <item>Chicken Curry</item>
+        <item>Beef Tacos</item>
+        <item>Lemon Garlic Shrimp Pasta</item>
+        <item>Banana Bread</item>
+        <item>Caprese Salad</item>
+        <item>Chocolate Chip Cookies</item>
+    </string-array>
+
+    <!-- Food Ingredients -->
+    <string-array name="food_ingredients">
+        <item>Pizza dough, tomato sauce, fresh mozzarella cheese, fresh basil leaves, olive oil, salt</item>
+        <item>Mixed vegetables (broccoli, bell peppers, carrots), soy sauce, garlic, ginger, olive oil</item>
+        <item>Romaine lettuce, croutons, Parmesan cheese, Caesar dressing</item>
+        <item>Spaghetti, pancetta or bacon, eggs, Parmesan cheese, garlic, olive oil, black pepper</item>
+        <item>Chicken pieces, curry powder, coconut milk, onion, garlic, ginger, tomato, oil</item>
+        <item>Ground beef, taco seasoning, taco shells, lettuce, cheese, salsa, sour cream</item>
+        <item>Shrimp, pasta, lemon, garlic, olive oil, parsley, red pepper flakes</item>
+        <item>Ripe bananas, flour, sugar, egg, butter, baking soda, salt, vanilla extract</item>
+        <item>Fresh mozzarella cheese, tomatoes, basil, olive oil, balsamic vinegar, salt, pepper</item>
+        <item>Flour, baking soda, salt, butter, sugar, brown sugar, vanilla extract, eggs, chocolate chips</item>
+    </string-array>
+
+    <!-- Food Preparation -->
+    <string-array name="food_preparation">
+        <item>Roll out pizza dough, spread tomato sauce, add slices of mozzarella. Bake at 475°F (245°C) for 10-15 minutes. Garnish with basil and a drizzle of olive oil</item>
+        <item>Sauté garlic and ginger in olive oil, add vegetables, stir-fry until tender. Add soy sauce and cook for another minute</item>
+        <item>Toss chopped romaine lettuce with Caesar dressing, add croutons and sprinkle with Parmesan cheese</item>
+        <item>Cook spaghetti, sauté pancetta and garlic, combine with beaten eggs and cheese, toss with hot spaghetti</item>
+        <item>Sauté onion, garlic, ginger, add chicken and curry powder, cook until browned. Add coconut milk and tomato, simmer until chicken is cooked</item>
+        <item>Cook beef with taco seasoning, assemble tacos with beef, lettuce, cheese, salsa, and sour cream</item>
+        <item>Cook pasta, sauté shrimp with garlic and red pepper flakes, add lemon juice. Mix with pasta and garnish with parsley</item>
+        <item>Mash bananas, mix with melted butter, add sugar, egg, and vanilla. Add flour, baking soda, salt, pour into a loaf pan, bake at 350°F (175°C) for 1 hour</item>
+        <item>Slice mozzarella and tomatoes, layer with basil. Drizzle with olive oil and balsamic vinegar, season with salt and pepper</item>
+        <item>Mix flour, baking soda, salt. Cream butter, sugars, add vanilla and eggs. Mix with dry ingredients, add chocolate chips. Drop spoonfuls on baking sheet, bake at 375°F (190°C) for 8-10 minutes</item>
+    </string-array>
+
+    <integer-array name="food_photo">
+        <item>@drawable/pizza</item>
+        <item>@drawable/vegetable_stir</item>
+        <item>@drawable/cesar_salad</item>
+        <item>@drawable/spaghetti</item>
+        <item>@drawable/chicken_curry</item>
+        <item>@drawable/beef_tacos</item>
+        <item>@drawable/pasta</item>
+        <item>@drawable/banana_bread</item>
+        <item>@drawable/caprese_salad</item>
+        <item>@drawable/choco_chips</item>
+    </integer-array>
+</resources>
